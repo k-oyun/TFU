@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8415D8A22E53097F0099FEAF /* TourForYou.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TourForYou.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84264E422E54559700EAD0A6 /* TFU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TFU.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8415D8A42E53097F0099FEAF /* TourForYou */ = {
+		84264E442E54559700EAD0A6 /* TFU */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TourForYou;
+			path = TFU;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8415D89F2E53097F0099FEAF /* Frameworks */ = {
+		84264E3F2E54559700EAD0A6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8415D8992E53097F0099FEAF = {
+		84264E392E54559700EAD0A6 = {
 			isa = PBXGroup;
 			children = (
-				8415D8A42E53097F0099FEAF /* TourForYou */,
-				8415D8A32E53097F0099FEAF /* Products */,
+				84264E442E54559700EAD0A6 /* TFU */,
+				84264E432E54559700EAD0A6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8415D8A32E53097F0099FEAF /* Products */ = {
+		84264E432E54559700EAD0A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8415D8A22E53097F0099FEAF /* TourForYou.app */,
+				84264E422E54559700EAD0A6 /* TFU.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8415D8A12E53097F0099FEAF /* TourForYou */ = {
+		84264E412E54559700EAD0A6 /* TFU */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8415D8B12E5309800099FEAF /* Build configuration list for PBXNativeTarget "TourForYou" */;
+			buildConfigurationList = 84264E502E54559800EAD0A6 /* Build configuration list for PBXNativeTarget "TFU" */;
 			buildPhases = (
-				8415D89E2E53097F0099FEAF /* Sources */,
-				8415D89F2E53097F0099FEAF /* Frameworks */,
-				8415D8A02E53097F0099FEAF /* Resources */,
+				84264E3E2E54559700EAD0A6 /* Sources */,
+				84264E3F2E54559700EAD0A6 /* Frameworks */,
+				84264E402E54559700EAD0A6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8415D8A42E53097F0099FEAF /* TourForYou */,
+				84264E442E54559700EAD0A6 /* TFU */,
 			);
-			name = TourForYou;
+			name = TFU;
 			packageProductDependencies = (
 			);
-			productName = TourForYou;
-			productReference = 8415D8A22E53097F0099FEAF /* TourForYou.app */;
+			productName = TFU;
+			productReference = 84264E422E54559700EAD0A6 /* TFU.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8415D89A2E53097F0099FEAF /* Project object */ = {
+		84264E3A2E54559700EAD0A6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					8415D8A12E53097F0099FEAF = {
+					84264E412E54559700EAD0A6 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 8415D89D2E53097F0099FEAF /* Build configuration list for PBXProject "TourForYou" */;
+			buildConfigurationList = 84264E3D2E54559700EAD0A6 /* Build configuration list for PBXProject "TFU" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8415D8992E53097F0099FEAF;
+			mainGroup = 84264E392E54559700EAD0A6;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8415D8A32E53097F0099FEAF /* Products */;
+			productRefGroup = 84264E432E54559700EAD0A6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8415D8A12E53097F0099FEAF /* TourForYou */,
+				84264E412E54559700EAD0A6 /* TFU */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8415D8A02E53097F0099FEAF /* Resources */ = {
+		84264E402E54559700EAD0A6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8415D89E2E53097F0099FEAF /* Sources */ = {
+		84264E3E2E54559700EAD0A6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8415D8AF2E5309800099FEAF /* Debug */ = {
+		84264E4E2E54559800EAD0A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -177,16 +177,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		8415D8B02E5309800099FEAF /* Release */ = {
+		84264E4F2E54559800EAD0A6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -232,109 +234,94 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		8415D8B22E5309800099FEAF /* Debug */ = {
+		84264E512E54559800EAD0A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = TourForYou/TourForYou.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TourForYou/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TFU/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.oyun.TourForYou;
+				PRODUCT_BUNDLE_IDENTIFIER = com.oyun.TFU;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		8415D8B32E5309800099FEAF /* Release */ = {
+		84264E522E54559800EAD0A6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = TourForYou/TourForYou.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TourForYou/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TFU/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.oyun.TourForYou;
+				PRODUCT_BUNDLE_IDENTIFIER = com.oyun.TFU;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8415D89D2E53097F0099FEAF /* Build configuration list for PBXProject "TourForYou" */ = {
+		84264E3D2E54559700EAD0A6 /* Build configuration list for PBXProject "TFU" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8415D8AF2E5309800099FEAF /* Debug */,
-				8415D8B02E5309800099FEAF /* Release */,
+				84264E4E2E54559800EAD0A6 /* Debug */,
+				84264E4F2E54559800EAD0A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8415D8B12E5309800099FEAF /* Build configuration list for PBXNativeTarget "TourForYou" */ = {
+		84264E502E54559800EAD0A6 /* Build configuration list for PBXNativeTarget "TFU" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8415D8B22E5309800099FEAF /* Debug */,
-				8415D8B32E5309800099FEAF /* Release */,
+				84264E512E54559800EAD0A6 /* Debug */,
+				84264E522E54559800EAD0A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8415D89A2E53097F0099FEAF /* Project object */;
+	rootObject = 84264E3A2E54559700EAD0A6 /* Project object */;
 }
